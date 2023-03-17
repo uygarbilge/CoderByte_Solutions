@@ -23,5 +23,8 @@ using CodeByte_Solutions;
 //FirstReverse_ firstReverse = new FirstReverse_();
 //firstReverse.Run();
 
-LongestWord longestWord = new LongestWord();
-longestWord.Run();
+//LongestWord_ longestWord = new LongestWord_();
+//longestWord.Run();
+
+BracketCombinations_ bracketCombinations = new BracketCombinations_();
+bracketCombinations.Run();
